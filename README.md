@@ -1,1 +1,1 @@
-# COMP-4300-Aubie
+# COMP-4300-Computer-Architecture

@@ -1,0 +1,422 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Ealu
+Z0 w1575588028
+Z1 DPx4 work 13 bv_arithmetic 0 22 ;=2SeGQPb=ziI`4efIfkn0
+Z2 DPx4 work 9 dlx_types 0 22 N;][EXI4VdHCK129TNO5`0
+Z3 dC:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie
+Z4 8C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/datapath_aubie_v1.vhd
+Z5 FC:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/datapath_aubie_v1.vhd
+l0
+L34
+Vf_Lk9:eWWQmm]@VnNAB4h3
+!s100 lF^DYbmhcg]]YO2ZWHaMl3
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1575599821
+!i10b 1
+Z8 !s108 1575599821.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/datapath_aubie_v1.vhd|
+Z10 !s107 C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/datapath_aubie_v1.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Abehavior
+R1
+R2
+Z13 DEx4 work 3 alu 0 22 f_Lk9:eWWQmm]@VnNAB4h3
+l62
+L61
+VNgS`F?godb9RUBBJ6XTEX0
+!s100 6kAKm2Y=eX6A2k6F9E=4L1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eaubie
+Z14 w1575430579
+R2
+R1
+R3
+Z15 8C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/interconnect_aubie.vhd
+Z16 FC:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/interconnect_aubie.vhd
+l0
+L6
+V4ESA;O^c<2dJh_zk:5Nng1
+!s100 ^BkcC0=[[Z=7dOM<k:9AG1
+R6
+32
+Z17 !s110 1575599825
+!i10b 1
+Z18 !s108 1575599825.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/interconnect_aubie.vhd|
+Z20 !s107 C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/interconnect_aubie.vhd|
+!i113 1
+R11
+R12
+Astruct
+Z21 DEx4 work 9 pcplusone 0 22 jl]^MOTIRMX?NjB6`G9R^1
+Z22 DEx4 work 12 threeway_mux 0 22 nI^bH@@z]1MDI@?l@>NV@3
+Z23 DEx4 work 3 mux 0 22 9>aC<P6j5985IdgEiVT?X2
+R13
+Z24 DEx4 work 8 reg_file 0 22 0VObk^IP;fMKbjLZjhUFL1
+Z25 DEx4 work 12 dlx_register 0 22 ]MCLMAT2>=8@iA[7g:I_61
+Z26 DEx4 work 6 memory 0 22 Io3limnAJb@c2?ADBMhVd2
+Z27 DEx4 work 16 aubie_controller 0 22 RQcEW[<n2;@MKPX6B7_:K0
+R2
+R1
+DEx4 work 5 aubie 0 22 4ESA;O^c<2dJh_zk:5Nng1
+l41
+L10
+VgHl4mG8^Sec^Y_Z^;BCF@1
+!s100 MZFC7<1A8^U?d]0Zh3C>l3
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Eaubie_controller
+Z28 w1575651359
+R2
+R1
+R3
+Z29 8C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/control_aubie_v1.vhd
+Z30 FC:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/control_aubie_v1.vhd
+l0
+L5
+VRQcEW[<n2;@MKPX6B7_:K0
+!s100 =>2]G;_HQTPRc28dY2E2=3
+R6
+32
+Z31 !s110 1575652257
+!i10b 1
+Z32 !s108 1575652257.000000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/control_aubie_v1.vhd|
+Z34 !s107 C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/control_aubie_v1.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R2
+R1
+R27
+l32
+L31
+Z35 VAWM7lL]fOSL[hf8`zB>]62
+Z36 !s100 UO]C]9a7CDI^m?3VFOJC]2
+R6
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R11
+R12
+Pbv_arithmetic
+w1570018347
+R3
+8C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/bva.vhd
+FC:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/bva.vhd
+l0
+L15
+V;=2SeGQPb=ziI`4efIfkn0
+!s100 DK;Y`J0lJAh`j:XUgQ7B<1
+R6
+32
+b1
+Z37 !s110 1575599807
+!i10b 1
+Z38 !s108 1575599807.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/bva.vhd|
+!s107 C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/bva.vhd|
+!i113 1
+R11
+R12
+Bbody
+R1
+w1570018346
+8C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/bva-b.vhd
+FC:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/bva-b.vhd
+l0
+L1
+VLPF@=`8X>]9I@:nc^2mYE3
+!s100 ;^d^hPQojBY3:39_Lf`ZP1
+R6
+32
+R37
+!i10b 1
+R38
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/bva-b.vhd|
+!s107 C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/bva-b.vhd|
+!i113 1
+R11
+R12
+nbody
+Edlx_register
+R0
+R2
+R3
+R4
+R5
+l0
+L151
+V]MCLMAT2>=8@iA[7g:I_61
+!s100 0A4?HHCTKg`DQRdR=O[LT1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehavior
+R2
+R25
+l157
+L156
+VfVi?kIL@e6BJj3O?W]c5B2
+!s100 Xol9^h@O0g^@3IH=ODmPH3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Pdlx_types
+w1570038323
+R3
+8C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/dlx-types.vhd
+FC:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/dlx-types.vhd
+l0
+L2
+VN;][EXI4VdHCK129TNO5`0
+!s100 E2c;:eYf;hh[jFU?F_ci41
+R6
+32
+!s110 1575599808
+!i10b 1
+R38
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/dlx-types.vhd|
+!s107 C:/Users/Harrison Haigler/Documents/Auburn/Senior Semester 1/Architecture COMP 4300/labs/aubie/dlx-types.vhd|
+!i113 1
+R11
+R12
+Ememory
+R0
+R1
+R2
+R3
+R4
+R5
+l0
+L238
+VIo3limnAJb@c2?ADBMhVd2
+!s100 RibHVkYcjZNJQBjPmono72
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+R26
+l250
+L248
+V3H9Yb55mIXozDLZW9E7B_0
+!s100 GW^PG=G`6<TW><XWIJT8_0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emux
+R0
+R2
+R3
+R4
+R5
+l0
+L192
+V9>aC<P6j5985IdgEiVT?X2
+!s100 PV2Y2@JeI;10?lkIh840j1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehavior
+R2
+R23
+l198
+L197
+VXg2JiAKd=d_5A9Zk]8I0Q0
+!s100 @<n:]ZQ?O?Og[b=bfGPnW0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Epcplusone
+R0
+R1
+R2
+R3
+R4
+R5
+l0
+L170
+Vjl]^MOTIRMX?NjB6`G9R^1
+!s100 <[LK1Xgh[6ZfYfYb=V3Dh0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+R21
+l176
+L175
+VDh7CFRzbei3Q;HgXja@dV2
+!s100 d<OF?jO]U;ZQ[S_K??4jG2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ereg_file
+R0
+R1
+R2
+R3
+R4
+R5
+l0
+L7
+V0VObk^IP;fMKbjLZjhUFL1
+!s100 dbdI;i>2kJ0iS9gBeePNX0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+R24
+l16
+L14
+V391b<N7`FMUOef3mH4GV@2
+!s100 Fb:XE4Wna6DOOfL_diT^D0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ethreeway_mux
+R0
+R2
+R3
+R4
+R5
+l0
+L213
+VnI^bH@@z]1MDI@?l@>NV@3
+!s100 <E?^EXFc8@lDg]fPhSeF=1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehavior
+R2
+R22
+l219
+L218
+V^<Wb^5m^_Kdo@10dJ5H6H0
+!s100 >>6TLd0]5ETa@Je]V?D[d3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
